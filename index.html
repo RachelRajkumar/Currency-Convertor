@@ -7,21 +7,26 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
   <div class="container">
     <h1>Currency Converter</h1>
 
     <div class="converter">
+
       <input type="number" id="amount" placeholder="Enter amount" />
 
       <div class="selectors">
         <select id="fromCurrency"></select>
-        <span>→</span>
+
+        <button class="swap" onclick="swapCurrencies()">⇅</button>
+
         <select id="toCurrency"></select>
       </div>
 
       <button onclick="convertCurrency()">Convert</button>
 
       <div id="result"></div>
+
     </div>
   </div>
 
