@@ -10,27 +10,12 @@
 
 🛠️ Technologies Used
 
-🌐 HTML5 – Structure and Content
-🎨 CSS3 – Styling and Flexbox Layout
-⚡ JavaScript (ES6+) – Dynamic Functionality
-🔗 Fetch API – HTTP Requests and API Integration
-💱 Exchange Rate API – Real-Time Currency Data
+🌐 HTML5 – Structure and Content 🎨 CSS3 – Styling and Flexbox Layout ⚡ JavaScript (ES6+) – Dynamic Functionality 🔗 Fetch API – HTTP Requests and API Integration 💱 Exchange Rate API – Real-Time Currency Data
 
 🎨 UI Design
 
-🎯 Clean and Minimal Layout
-📦 Centered Card-Style Container
-📱 Responsive Flexbox Design
-✨ Smooth User Experience
-📊 Highlighted Result Display Section
+🎯 Clean and Minimal Layout 📦 Centered Card-Style Container 📱 Responsive Flexbox Design ✨ Smooth User Experience 📊 Highlighted Result Display Section
 
 ✨ Features
 
-💰 Enter Amount to Convert
-🌍 Select Currencies Dynamically
-🔄 Convert Between Multiple Currencies
-⚡ Real-Time Exchange Rates
-📊 Instant Conversion Results
-🎯 Default Conversion: USD → INR
-✅ User-Friendly Interface
-📱 Responsive Design for All Devices
+💰 Enter Amount to Convert 🌍 Select Currencies Dynamically 🔄 Convert Between Multiple Currencies ⚡ Real-Time Exchange Rates 📊 Instant Conversion Results 🎯 Default Conversion: USD → INR ✅ User-Friendly Interface 📱 Responsive Design for All Devices
